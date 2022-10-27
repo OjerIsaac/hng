@@ -6,7 +6,7 @@ $data = json_decode($input, true);
 if (empty($data))
 {
     // $returnArr = array("errorCode" => "401", "status" => "false", "ResponseMsg" => "Something Went Wrong!");
-    $returnArr = array("slackUsername" => "ejiro", "backend" => true, "age" => 22, "bio" => "Backend developer @ HNG");
+    $returnArr = array("slackUsername" => "isaacojerumu", "backend" => true, "age" => 22, "bio" => "Backend developer @ HNG");
 } else
 {
     // $returnArr = array();
